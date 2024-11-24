@@ -172,3 +172,26 @@ Break down the project into manageable iterations (sprints) and develop function
 | Task Provide           | T009      | check adviser and teacher can provide task                    | Task Details                      | Task submission confirmation          | Task submitted successfully         | Pass     |
 | Notification            | T010      | Verify system sends notification to user            | Notification Trigger Event         | User receives notification                | Notification received                   | Pass     |
 
+
+
+---
+
+
+
+## Limitations:
+  - ### **System Integration**: It is a technical barrier. Integrating diverse data sources may increase technical challenges
+  - ### **Technological Constrains**: The tools, programming languages ​​or platforms we are using may have limitations that prevent us from implementing some advanced features or functionality.
+  - ### **System Integration**: It is the most hard task in this project.
+  - ### **Dependency on External Platforms**:System performance depends on the availability and reliability of external competitive programming platforms. Any changes or interruptions in this platform may affect system performance.
+  - ### **Scalability Issues**:As the number of users and amount of data increases, the system may face scalability challenges. Ensuring that the system can handle increasing numbers of users and large datasets without compromising performance is critical.
+  - ### **Real-Time Data Accuracy**:The accuracy of performance data depends on the timely and reliable retrieval of information from integrated platforms. Delays or errors in data synchronization can affect the accuracy and usefulness of the system.
+  - ### **Data Security**:Handling sensitive data such accounts of different platforms which may limit the scope of our analysis.
+
+
+---
+
+
+## Conclusion
+The project "Student Performance Tracker in Competitive Programming" successfully addresses the need for a comprehensive solution to monitor, analyze and improve student performance in competitive programming.By combining data from various competitive programming platforms, the system provides valuable insights into student progress, identifies strengths and weaknesses, and provides targeted feedback and resources for improvement.
+
+Overall, this project represents an important step forward in leveraging technology to support academic growth and achievement in competitive programming.
