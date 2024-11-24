@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#8e44ad; font-family: 'Georgia', serif; font-weight: 700;">
+<h1 align="center">
   <b>Student Performance Tracker in Competitive Programming</b>
 </h1>
 
