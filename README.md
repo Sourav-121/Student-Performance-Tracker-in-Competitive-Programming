@@ -94,7 +94,7 @@ The "Student Performance Tracker in Competitive Programming" project is designed
   - Performance According to Different Platforms
 
 ### 2. **Design**
-  - Develop wireframes and prototypes [Class Diagram](#class-diagram).
+  - Develop designs using [Class Diagram](#class-diagram) and  [Activity Diagram](#activity-diagram)
   - Design the system architecture.
   - Review and refine design documents.
   - Create a database schema using [ER Diagram](#er-diagram).
