@@ -151,6 +151,12 @@ Break down the project into manageable iterations (sprints) and develop function
   ![class diagram](https://github.com/Sourav-121/Student-Performance-Tracker-in-Competitive-Programming/blob/main/Images/class_diagram.png)
   <p align="center"><i>Figure 02: Class Diagram</i></p>
 
+  ---
+
+  - ### **Activity Diagram**:
+  ![activity diagram](https://github.com/Sourav-121/Student-Performance-Tracker-in-Competitive-Programming/blob/main/Images/Activity%20Diagram.png)
+  <p align="center"><i>Figure 03: Activity Diagram</i></p>
+
 
  
   ---
