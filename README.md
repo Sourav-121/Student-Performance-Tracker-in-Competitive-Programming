@@ -4,14 +4,20 @@
 
 ---
 
+<span>This project shows student progress in competitive programming by tracking their accounts across various competitive programming platforms and contests. 
+<br>
+By utilizing the Agile methodology, it ensures flexibility and continuous improvement to meet the evolving needs of the learners.</span>
+
+---
+
 <h2 align="center" ">
   <em>Course Information</em>
 </h2>
 
 <p align="center" >
-  <span ">Course Title:</span> Software Engineering  
+  <span >Course Title:</span> Software Engineering  
   <br>
-  <span ">Course Code:</span> CSE 305  
+  <span >Course Code:</span> CSE 305  
 </p>
 
 
