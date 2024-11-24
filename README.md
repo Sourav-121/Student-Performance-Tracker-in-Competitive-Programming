@@ -35,7 +35,7 @@
 </h2>
 
 <p align="center">
-  <span >Name:</span> Sourav  
+  <span >Name:</span> Sourav Roy 
   <br>
   <span >Student ID:</span> 2102008  
   <br>
