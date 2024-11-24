@@ -2,13 +2,12 @@
   <b>"Student Performance Tracker in Competitive Programming"</b>
 </h1>
 
---
-
+---
 <p>This project shows student progress by tracking their accounts across various competitive programming platforms and contests. 
 <br>
 By utilizing the Agile methodology, it ensures flexibility and continuous improvement to meet the evolving needs of the learners.</p>
 
---
+---
 
 <h2 align="center" ">
   <em>Course Information</em>
