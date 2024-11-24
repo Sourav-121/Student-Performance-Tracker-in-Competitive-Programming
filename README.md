@@ -3,9 +3,9 @@
 </h1>
 
 ---
-<p>This project shows student progress by tracking their accounts across various competitive programming platforms and contests. 
+<p> <small>This project shows student progress by tracking their accounts across various competitive programming platforms and contests. 
 <br>
-By utilizing the Agile methodology, it ensures flexibility and continuous improvement to meet the evolving needs of the learners.</p>
+By utilizing the Agile methodology, it ensures flexibility and continuous improvement to meet the evolving needs of the learners.</small></p>
 
 ---
 
