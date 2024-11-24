@@ -60,13 +60,13 @@
 
 
 
-## Abstract
+## 🪄Abstract
 This project shows student progress by tracking their accounts across various competitive programming platforms and contests.By utilizing the Agile methodology, it ensures flexibility and continuous improvement to meet the evolving needs of the learners.
 
-## Introduction
+## 💎Introduction
 The "Student Performance Tracker in Competitive Programming" project is designed to provide a comprehensive solution for monitoring and improving student progress in competitive programming. By tracking student accounts across various competitive programming platforms and contests, the project offers valuable insights into their performance, highlighting areas of strength and opportunities for improvement. The use of Agile methodology ensures that the project remains flexible and adaptive, continuously evolving to meet the changing needs of students and educators. With a user-friendly interface, the project facilitates easy access to performance data, fostering a supportive environment for skill development and academic success.
 
-## Objectives 
+## ✒️Objectives 
 - **Monitor Student Progress**: Track and analyze the progress of students in competitive programming by monitoring their performance across various contests and platforms.
 - **Platform Integration**: Seamlessly integrate with multiple competitive programming platforms to gather comprehensive performance data.
 - **Agile Methodology**: Ensure continuous improvement and adaptability by utilizing the Agile methodology throughout the project's lifecycle.
@@ -78,7 +78,7 @@ The "Student Performance Tracker in Competitive Programming" project is designed
 ---
 
 
-## SDLC Model: Agile Development Process
+## 💻SDLC Model: Agile Development Process
 ---
 ### 1. **Brainstorming and Backlog Creation**
 - **Activities**:
@@ -131,14 +131,16 @@ Break down the project into manageable iterations (sprints) and develop function
   - Conduct regular updates and maintenance activities.
 
 ### Benefits of Agile Methodology in This Project:
-- **Flexibility**: Agile allows for changes and adaptations based on stakeholder feedback and evolving requirements.
+- **Flexibility**: Agile allows for changes and adaptations based on feedback and evolving requirements.
 - **Continuous Improvement**: Regular retrospectives ensure the team continually improves processes and outcomes.
-- **User-Centric**: Frequent interactions with stakeholders ensure the product meets their needs and expectations.
+- **User-Centric**: Frequent interactions with stakeholder ensure the product meets their needs and expectations.
 - **Transparency**: Regular updates and reviews keep stakeholders informed and engaged throughout the project lifecycle.
+
 
 ---
 
-## UML Diagram:
+
+## 🏞️UML Diagram:
  - ### **ER Diagram**:
   ![ER diagram](https://github.com/Sourav-121/Student-Performance-Tracker-in-Competitive-Programming/blob/main/Images/ER_diagram.png)
   <p align="center"><i>Figure 01: ER Diagram</i></p>
@@ -155,7 +157,7 @@ Break down the project into manageable iterations (sprints) and develop function
 
 
 
-  ## Test Cases for Different Modules 
+  ## ✨Test Cases for Different Modules 
   The test cases outlined for the "Student Performance Tracker in Competitive Programming" project are designed to ensure that all core functionalities of the system are working as intended. Each test case covers different modules of the project, including user registration, login, profile management, performance tracking, task assignment, leaderboard, user feedback, and notifications.
 
   
@@ -179,7 +181,7 @@ Break down the project into manageable iterations (sprints) and develop function
 
 
 
-## Limitations:
+## 🛠️Limitations:
   - ### **System Integration**:
     It is a technical barrier. Integrating diverse data sources may increase technical challenges
   - ### **Technological Constrains**:
@@ -199,7 +201,7 @@ Break down the project into manageable iterations (sprints) and develop function
 ---
 
 
-## Conclusion
+## ❄️Conclusion
 The project "Student Performance Tracker in Competitive Programming" successfully addresses the need for a comprehensive solution to monitor, analyze and improve student performance in competitive programming.By combining data from various competitive programming platforms, the system provides valuable insights into student progress, identifies strengths and weaknesses, and provides targeted feedback and resources for improvement.
 
 Overall, this project represents an important step forward in leveraging technology to support academic growth and achievement in competitive programming.
