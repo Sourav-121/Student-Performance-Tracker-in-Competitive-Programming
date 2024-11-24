@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Student Performance Tracker in Competitive Programming</b>
+  <b>"Student Performance Tracker in Competitive Programming"</b>
 </h1>
 
 ---
