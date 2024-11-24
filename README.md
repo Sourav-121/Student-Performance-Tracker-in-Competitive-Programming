@@ -145,4 +145,27 @@ Break down the project into manageable iterations (sprints) and develop function
   ![class diagram](https://github.com/Sourav-121/Student-Performance-Tracker-in-Competitive-Programming/blob/main/Images/class_diagram.png)
   <p align="center"><i>Figure 02: Class Diagram</i></p>
 
+
+ 
+  ---
+
+
+
+  ## Test Cases for Different Module: 
+  The test cases outlined for the "Student Performance Tracker in Competitive Programming" project are designed to ensure that all core functionalities of the system are working as intended. Each test case covers different modules of the project, including user registration, login, profile management, performance tracking, task assignment, leaderboard, user feedback, and notifications.
+
   
+
+| Module                  | Test ID   | Test Case Description                               | Input Data                         | Expected Output                           | Actual Result                           | Status   |
+|-------------------------|-----------|-----------------------------------------------------|------------------------------------|-------------------------------------------|-----------------------------------------|----------|
+| Student Registration       | T001      | Verify student registration with valid data            | Username, Password, Email          | Successful account creation message       | Account created successfully            | Pass     |
+| Adviser Registration       | T002      | Add adviser with valid data         | Username, Password, Email  | Successful adviser adding message    | successfully added                  | Pass     |
+| Login                   | T003      | Verify login with correct credentials               | Username, Password                 | Successful login                          | Logged in successfully                  | Pass     |
+| Login                   | T004      | Try to login with incorrect credentials             | Username, Incorrect Password       | Error message indicating login failure    | Error message displayed                 | Pass     |
+| Profile Management      | T005      |  can update profile information          | Updated Name, Email etc.          | Successful update message                 | Profile updated successfully            | Pass     |
+| Performance Tracking    | T006      |  data tracking from integrated platforms      | User ID, Platform Credentials      | Accurate performance data displayed       | Performance data displayed accurately   | Pass     |
+| Teacher Registration         | T007      | Adding teacher by admin to manage student and adviser                  | ID ,password          | Successful account creation                | Account created successfully              | Pass     |
+| Leaderboard             | T008      | Verify leaderboard displays correct rankings        | Performance Data                   | Correct ranking based on performance data | Leaderboard rankings displayed correctly| Pass     |
+| Task Provide           | T009      | check adviser and teacher can provide task                    | Task Details                      | Task submission confirmation          | Task submitted successfully         | Pass     |
+| Notification            | T010      | Verify system sends notification to user            | Notification Trigger Event         | User receives notification                | Notification received                   | Pass     |
+
