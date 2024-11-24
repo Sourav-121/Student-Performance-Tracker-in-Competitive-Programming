@@ -4,46 +4,46 @@
 
 ---
 
-<h2 align="center" style="color:#16a085; font-family: 'Verdana', sans-serif; font-weight: 600;">
+<h2 align="center" ">
   <em>Course Information</em>
 </h2>
 
-<p align="center" style="font-size:18px; color:#2c3e50; font-family: 'Arial', sans-serif;">
-  <span style="font-weight: 600;">Course Title:</span> Software Engineering  
+<p align="center" >
+  <span ">Course Title:</span> Software Engineering  
   <br>
-  <span style="font-weight: 600;">Course Code:</span> CSE 305  
+  <span ">Course Code:</span> CSE 305  
 </p>
 
 ---
 
-<h2 align="center" style="color:#2980b9; font-family: 'Helvetica', sans-serif; font-weight: 600;">
+<h2 align="center" >
   <em>Submitted To</em>
 </h2>
 
-<p align="center" style="font-size:16px; color:#34495e; font-family: 'Courier New', monospace;">
-  <span style="font-weight: 600;">Name:</span> Pankaj Bhowmik  
+<p align="center" >
+  <span >Name:</span> Pankaj Bhowmik  
   <br>
-  <span style="font-weight: 600;">Designation:</span> Lecturer  
+  <span>Designation:</span> Lecturer  
   <br>
-  <span style="font-weight: 600;">Department:</span> Computer Science and Engineering  
+  <span>Department:</span> Computer Science and Engineering  
 </p>
 
 ---
 
-<h2 align="center" style="color:#f39c12; font-family: 'Verdana', sans-serif; font-weight: 600;">
+<h2 align="center">
   <em>Submitted By</em>
 </h2>
 
-<p align="center" style="font-size:16px; color:#34495e; font-family: 'Courier New', monospace;">
-  <span style="font-weight: 600;">Name:</span> Sourav  
+<p align="center">
+  <span >Name:</span> Sourav  
   <br>
-  <span style="font-weight: 600;">Student ID:</span> 2102008  
+  <span >Student ID:</span> 2102008  
   <br>
-  <span style="font-weight: 600;">Level:</span> 3  
+  <span >Level:</span> 3  
   <br>
-  <span style="font-weight: 600;">Semester:</span> I  
+  <span >Semester:</span> I  
   <br>
-  <span style="font-weight: 600;">Department:</span> Computer Science and Engineering  
+  <span ">Department:</span> Computer Science and Engineering  
 </p>
 
 ---
@@ -52,6 +52,6 @@
   <img src="./Images/hstu_logo_.png" alt="Hajee Mohammad Danesh Science and Technology University,Dinajpur-5200" width="150">
 </p>
 
-<h2 align="center" style="color:#8e44ad; font-family: 'Lora', serif; font-weight: 700;">
+<h2 align="center" ">
   <b>Hajee Mohammad Danesh Science and Technology University,</b>
 <b>Dinajpur-5200</b>
